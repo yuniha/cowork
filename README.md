@@ -13,3 +13,4 @@ Github 협업 연습
 - - - -
 # pull request 성공 명단
 - - - -
+ 김현진(yuniha) merge 요청합니다.
